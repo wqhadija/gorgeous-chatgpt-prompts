@@ -62,6 +62,10 @@ You could give the following input:
 
 This input includes several keywords related to mystery and crime, as well as specific elements that are commonly found in mystery novels, such as a detective, clues, and a twist ending. GPT-3 can then use this input to generate ideas and text that could form the basis for a compelling mystery novel.
 
+## As a Comician 👩🏻‍🎤
+You might provide the following input:
+> Create a funny single panel comic 
+
 ## As a Poet 🦋
 You might provide the following input:
 > Write a poem about [the ocean]
