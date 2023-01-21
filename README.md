@@ -1,4 +1,4 @@
-# 🦋 Gorgeous Chatgpt-Prompts
+# 🦋 Gorgeous ChatGpt-Prompts
 Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 
 ## As a Checker ✅
