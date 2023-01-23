@@ -1,4 +1,4 @@
-# 🦋 Gorgeous ChatGpt-Prompts
+# 🦋 Gorgeous ChatGpt-Prompts for Writer
 Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 
 First thank you for puchased my a low-grade [Ebook](https://shope.ee/2L00bErgiQ?share_channel_code=2)
