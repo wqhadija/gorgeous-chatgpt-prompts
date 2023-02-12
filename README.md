@@ -79,3 +79,4 @@ From there, you can edit and revise the generated text as needed to create a com
 
 Finally, be sure to proofread and revise your poem carefully to ensure that it is error-free and reads well. With a little effort and creativity, you can use GPT-3 to create a beautiful and meaningful poem.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
